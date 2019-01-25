@@ -1,0 +1,4 @@
+#Wed Jan 16 15:00:06 IST 2019
+base.0=/Volumes/Projects/LI_ReactNative/ReactWorkspace/InAppPurchase/android/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
