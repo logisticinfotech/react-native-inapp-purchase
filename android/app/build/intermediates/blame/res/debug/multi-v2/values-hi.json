@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Projects/LI_ReactNative/ReactWorkspace/InAppPurchase/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
+            "outputFile": "/Volumes/Projects/REACTJS/InAppPurchase/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
             "map": [
                 {
                     "source": "/Users/pankaj/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8357a4da3ffd20de3f71931f23a66934/res/values-hi/values-hi.xml",
