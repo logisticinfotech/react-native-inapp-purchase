@@ -18,9 +18,8 @@ export default StyleSheet.create({
     width: "100%",
     height:40,
     borderRadius: 6,
-    backgroundColor: "green",
-    borderWidth: 1,
-    borderColor: "red",
+    backgroundColor: "#1c4d89",
+    
     alignSelf: "center",
     justifyContent: "center",
     paddingHorizontal: 15,

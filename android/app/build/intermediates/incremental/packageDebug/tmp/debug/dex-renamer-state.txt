@@ -1,4 +1,4 @@
-#Tue Mar 19 11:50:28 IST 2019
-base.0=/Volumes/Projects/REACTJS/InAppPurchase/android/app/build/intermediates/dex/debug/mergeDexDebug/out
+#Wed Mar 20 18:17:37 IST 2019
+base.0=/Volumes/Projects/REACTNATIVE_LIB/RNinApp/react-native-inapp-purchase/android/app/build/intermediates/dex/debug/mergeDexDebug/out
 renamed.0=classes.dex
 path.0=classes.dex
